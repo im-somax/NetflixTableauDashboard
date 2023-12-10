@@ -1,3 +1,3 @@
 # NetflixTableauDashboard
 
-<img src="Netflix logo.png">
+<img src="Dashboard.png">
